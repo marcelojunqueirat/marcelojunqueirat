@@ -2,7 +2,7 @@
   Olá, me chamo Marcelo ! 👋🤙
 </h2>
 
-🏢 Analista de Qualidade de Software / Tester<br>🚀 Estudante DEVinHouse<br>💻 Entusiasta de tecnologia<br>🎯 QA -> DEV
+🏢 Analista de Qualidade de Software / Tester<br>🚀 DEVinHouse<br>💻 Entusiasta de tecnologia<br>🎯 QA -> DEV
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojunqueirat&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
