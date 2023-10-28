@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojunqueirat&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p> 
-  <a href="https://linkedin.com/in/marcelo-junqueira-888bba104">
+  <a href="https://linkedin.com/in/marcelojunqueirat">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/marcelo_junqueira_/">
