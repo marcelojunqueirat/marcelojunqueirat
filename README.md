@@ -1,5 +1,5 @@
-<h2 align='center'>
-  Olá, me chamo (Marcelo)[https://marcelo-jt-qa.lovable.app] ! 👋🤙
+<h2 align="center">
+  Olá, me chamo <a href="https://marcelo-jt-qa.lovable.app">Marcelo</a>! 👋🤙
 </h2>
 
 🏢 Quality Assurance Engineer / Tester<br> 💻 Developer <br> 🎯 QA <-> DEV
