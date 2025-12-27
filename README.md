@@ -1,9 +1,8 @@
 <h2 align='center'>
-  Olá, me chamo Marcelo ! 👋🤙
+  Olá, me chamo (Marcelo)[https://marcelo-jt-qa.lovable.app] ! 👋🤙
 </h2>
 
 🏢 Quality Assurance Engineer / Tester<br> 💻 Developer <br> 🎯 QA <-> DEV
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojunqueirat&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
